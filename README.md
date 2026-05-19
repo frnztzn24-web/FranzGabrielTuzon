@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Franz Gabriel A. Tuzon 👋</h1>
+<h1 align="center">Hi there, I'm Franz Gabriel A. Tuzon </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/frnztzn24/frnztzn24/main/franz_tuzon_photo.png" width="180" style="border-radius: 50%;" alt="Franz Gabriel A. Tuzon"/>
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Franz Gabriel A. Tuzon**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the **BS Information Technology** program.
+I'm Franz Gabriel A. Tuzon, a BS Information Technology student passionate about coding, database management, and building efficient digital solutions. I enjoy solving complex problems, learning new technologies, and creating functional applications that make an impact.
 
 ---
 
@@ -60,6 +60,3 @@ I am **Franz Gabriel A. Tuzon**, with a flair for coding and database management
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frnztzn24&show_icons=true&theme=tokyonight" alt="Franz's GitHub Stats"/>
-</p>
