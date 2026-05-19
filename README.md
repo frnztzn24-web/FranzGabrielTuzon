@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Franz Gabriel A. Tuzon </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frnztzn24/frnztzn24/main/franz_tuzon_photo.png" width="180" style="border-radius: 50%;" alt="Franz Gabriel A. Tuzon"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
